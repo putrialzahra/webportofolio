@@ -31,7 +31,7 @@ export default function Footer() {
         </a>
       </div>
       <div className="footer-text">
-        <p>Copyright &copy; 2023. All Rights Reserved</p>
+        <p>Copyright &copy; 2024. All Rights Reserved</p>
       </div>
     </footer>
     </>
