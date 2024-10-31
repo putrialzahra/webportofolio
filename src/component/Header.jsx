@@ -34,7 +34,7 @@ export default function Header() {
                   Technology and Business | UI/UX Design Enthusiast
                 </p>
                 <br />
-                <a href="https://drive.google.com">
+                <a href="https://drive.google.com/file/d/1i3W4GsZ9DGbgjR8qNIzKaGwDrQCWlngz/view?usp=sharing">
                   <button className="btn">My Resume</button>
                 </a>
               </div>
